@@ -1,0 +1,9 @@
+[theme]
+
+# Remplace le rouge de la barre, des boutons et du slider
+# J'ai choisi un bleu (#1f77b4) pour s'accorder avec la courbe réelle de ton graphique
+primaryColor="#1f77b4"
+
+
+# Couleur du texte en blanc pour contraster avec le fond noir
+textColor="#000000"

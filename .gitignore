@@ -1,0 +1,12 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Fichiers systèmes et caches
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+
+# Données brutes (On ne pousse que les features traitées pour que l'app fonctionne)
+data/raw/
